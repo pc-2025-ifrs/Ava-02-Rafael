@@ -1,0 +1,14 @@
+C:\Users\rafae\Documents\Prog_corp\bin\Debug\net9.0\Prog_corp.exe
+C:\Users\rafae\Documents\Prog_corp\bin\Debug\net9.0\Prog_corp.deps.json
+C:\Users\rafae\Documents\Prog_corp\bin\Debug\net9.0\Prog_corp.runtimeconfig.json
+C:\Users\rafae\Documents\Prog_corp\bin\Debug\net9.0\Prog_corp.dll
+C:\Users\rafae\Documents\Prog_corp\bin\Debug\net9.0\Prog_corp.pdb
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.AssemblyInfo.cs
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.dll
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\refint\Prog_corp.dll
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.pdb
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\Prog_corp.genruntimeconfig.cache
+C:\Users\rafae\Documents\Prog_corp\obj\Debug\net9.0\ref\Prog_corp.dll
